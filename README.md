@@ -29,11 +29,15 @@ operating across 42 countries.
 
 ## My Role
 
-As **Incident reponse Lead**, I was responsible for:
 
+As **Threat Intelligence Lead**, I was responsible for:
 
+- Adversary characterisation using the MITRE ATT&CK framework
+- Mapping 14 documented TTPs across the full Cyber Attack Lifecycle
+- Justifying adversary class selection against the Cyber Preparedness framework
+- Producing the adversary profile statement specific to OmniRoute
 - Supporting detection engineering analysis using Sysmon configuration
-- Presenting Section 3 to a simulated executive panel (CISO, CFO, Head of Ops)
+- Presenting Section 1 to a simulated executive panel (CISO, CFO, Head of Ops)
 
 ---
 
