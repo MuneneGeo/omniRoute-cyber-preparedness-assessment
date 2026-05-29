@@ -7,13 +7,13 @@
 
 | Name | Role |
 |------|------|
- George Munene Threat Intelligence Lead 
-Emmanuel Asumwa  Squad Lead 
- Ajagurwah Edgah  Squad Member 
- Shannon Kihara  Detection engineer lead
- Maureen Maina  Squad Member 
- John Limbe Squad member
- Prisillah Nyoko  Squad Member 
+ George Munene | Threat Intelligence Lead 
+Emmanuel Asumwa | Squad Lead 
+ Ajagurwah Edgah | Squad Member 
+ Shannon Kihara | Detection engineer lead
+ Maureen Maina |Squad Member 
+ John Limbe | Squad member
+ Prisillah Nyoko |  Squad Member 
 
 ---
 
