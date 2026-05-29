@@ -60,10 +60,18 @@ As **Incident reponse Lead**, I was responsible for:
 ---
 
 ## Frameworks & Tools Referenced
-MITRE ATT&CK        Sysmon              Sigma Rules
-NIST CSF 2.0        CIS Controls v8     Velociraptor
-FortiGate IPS       Qualys / Nessus     Splunk / Elastic SIEM
-Veeam               TheHive + Cortex    KAPE
+MITRE ATT&CK  
+Sysmon           
+Sigma Rules
+NIST CSF 2.0  
+CIS Controls v8
+Velociraptor
+FortiGate IPS   
+Qualys / Nessus   
+Splunk / Elastic SIEM
+Veeam   
+TheHive + Cortex  
+KAPE
 ---
 
 ## Threat Intelligence Sources
