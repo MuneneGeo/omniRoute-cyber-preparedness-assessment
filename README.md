@@ -41,8 +41,8 @@ As **Incident reponse Lead**, I was responsible for:
 
 | File | Description |
 |------|-------------|
-| `OmniRoute_CyberPreparedness_Report.docx` | Full written report — Part A (60 marks) |
-| `OmniRoute_Presentation_Deck.pptx` | Panel presentation slides — Part B (40 marks) |
+| `OmniRoute_CyberPreparedness_Report.docx` | Full written report — Part A |
+| `OmniRoute_Presentation_Deck.pptx` | Panel presentation slides — Part B |
 
 ---
 
